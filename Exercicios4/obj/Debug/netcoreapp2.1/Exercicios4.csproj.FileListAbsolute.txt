@@ -1,0 +1,22 @@
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.deps.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.runtimeconfig.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.runtimeconfig.dev.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.pdb
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.pdb
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.deps.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.runtimeconfig.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.runtimeconfig.dev.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\bin\Debug\netcoreapp2.1\Exercicios4.pdb
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios4\obj\Debug\netcoreapp2.1\Exercicios4.pdb

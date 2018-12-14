@@ -1,0 +1,11 @@
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\bin\Debug\netcoreapp2.1\Exercicios11.deps.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\bin\Debug\netcoreapp2.1\Exercicios11.runtimeconfig.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\bin\Debug\netcoreapp2.1\Exercicios11.runtimeconfig.dev.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\bin\Debug\netcoreapp2.1\Exercicios11.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\bin\Debug\netcoreapp2.1\Exercicios11.pdb
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\obj\Debug\netcoreapp2.1\Exercicios11.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\obj\Debug\netcoreapp2.1\Exercicios11.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\obj\Debug\netcoreapp2.1\Exercicios11.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\obj\Debug\netcoreapp2.1\Exercicios11.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\obj\Debug\netcoreapp2.1\Exercicios11.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios C# Introdução\Exercicios11\obj\Debug\netcoreapp2.1\Exercicios11.pdb

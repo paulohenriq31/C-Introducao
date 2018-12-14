@@ -1,0 +1,11 @@
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\bin\Debug\netcoreapp2.1\Exercicios3.deps.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\bin\Debug\netcoreapp2.1\Exercicios3.runtimeconfig.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\bin\Debug\netcoreapp2.1\Exercicios3.runtimeconfig.dev.json
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\bin\Debug\netcoreapp2.1\Exercicios3.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\bin\Debug\netcoreapp2.1\Exercicios3.pdb
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\obj\Debug\netcoreapp2.1\Exercicios3.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\obj\Debug\netcoreapp2.1\Exercicios3.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\obj\Debug\netcoreapp2.1\Exercicios3.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\obj\Debug\netcoreapp2.1\Exercicios3.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\obj\Debug\netcoreapp2.1\Exercicios3.dll
+C:\Users\Paulo\Desktop\Paulo\Cursos\Guto\Exercicios3\obj\Debug\netcoreapp2.1\Exercicios3.pdb
